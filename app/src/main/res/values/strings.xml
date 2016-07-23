@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VoiceRecord</string>
+    <string name="replay_record"><u>重新录音</u></string>
+    <string name="Recording_without_permission">无录音权限</string>
+    <string name="The_recording_time_is_too_short">录音时间太短</string>
+    <string name="send_failure_please">发送失败，请检测服务器是否连接</string>
+    <string name="recoding_fail">录音失败，请重试！</string>
+    <string name="Send_voice_need_sdcard_support">发送语音需要sdcard支持</string>
+    <string name="Send_voice_need_avaliablespace">存储空间不够</string>
+    <string name="geterror">获取到错误的信息</string>
+    <string name="Is_download_voice_click_later">正在下载语音，稍后点击</string>
+</resources>

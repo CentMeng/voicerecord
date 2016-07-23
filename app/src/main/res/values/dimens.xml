@@ -1,0 +1,33 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="view_height">48dp</dimen>
+    <dimen name="min_view_height">40dp</dimen>
+    <dimen name="btn_width">55dp</dimen>
+    <dimen name="btn_height">25dp</dimen>
+    <dimen name="back_width">60dp</dimen>
+    <dimen name="padding_half">4dp</dimen>
+    <dimen name="padding">8dp</dimen>
+    <dimen name="padding_doublehalf">12dp</dimen>
+    <dimen name="padding_double">16dp</dimen>
+    <dimen name="paddingX3">24dp</dimen>
+    <dimen name="paddingX4">32dp</dimen>
+    <dimen name="padding_trip">24dp</dimen>
+    <dimen name="margin_half">6dp</dimen>
+    <dimen name="margin">12dp</dimen>
+    <dimen name="margin_double">24dp</dimen>
+    <dimen name="margin_trip">36dp</dimen>
+    <dimen name="margin_normal">16dp</dimen>
+    <dimen name="margin_normal_half">8dp</dimen>
+    <dimen name="margin_normal_double">32dp</dimen>
+
+    <!-- text -->
+    <dimen name="fourSize">8sp</dimen>
+    <dimen name="fiveSize">10sp</dimen>
+    <dimen name="sixSize">12sp</dimen>
+    <dimen name="sevenSize">14sp</dimen>
+    <dimen name="eightSize">16sp</dimen>
+    <dimen name="nineSize">18sp</dimen>
+    <dimen name="elevenSize">22sp</dimen>
+</resources>
